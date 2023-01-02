@@ -153,6 +153,11 @@ echo $date;
                 <a href="https://www.instagram.com/servasiusv/">
                     <p>instagram</p>
                 </a>
+
+
+                <a href="https://wa.me/6281213795928">
+                    <p>whatsapp</p>
+                </a>
             </td>
         </tr>
     </table>
